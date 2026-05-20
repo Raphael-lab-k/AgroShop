@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "AGROSHOP",
+    "slug": "agroshop",
+    "version": "1.0.0",
+    "sdkVersion": "49.0.0",
+    "platforms": ["ios", "android", "web"],
+    "orientation": "portrait",
+    "splash": {
+      "backgroundColor": "#FFFFFF"
+    },
+    "extra": {
+      "paystackPublicKey": "pk_test_replace_with_your_key",
+      "apiBaseUrl": "http://10.0.2.2:3000" // Update this to your backend URL
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"]
+  }
+}

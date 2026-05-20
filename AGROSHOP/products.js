@@ -1,0 +1,100 @@
+// /home/raphael/Desktop/AGROSHOP/constants/products.js
+
+const products = [
+  {
+    id: 'p1',
+    name: 'NPK 20-20-20 Fertilizer',
+    category: 'Fertilizer',
+    price: 5400,
+    description: 'Balanced nutrient fertilizer for cereal and vegetable crops.',
+    imageUrl: 'https://images.unsplash.com/photo-1516707570260-5f6f0a0f4f10?auto=format&fit=crop&w=800&q=80',
+  },
+  {
+    id: 'p2',
+    name: 'Glyphosate Herbicide',
+    category: 'Herbicide',
+    price: 9400,
+    description: 'Effective weed control for broadleaf weeds and grasses.',
+    imageUrl: 'https://images.unsplash.com/photo-1525347111598-0547a39aa5b7?auto=format&fit=crop&w=800&q=80',
+  },
+  {
+    id: 'p3',
+    name: 'Insecticide for Crop Protection',
+    category: 'Insecticide',
+    price: 7400,
+    description: 'Controls common pests on maize, beans, and vegetables.',
+    imageUrl: 'https://images.unsplash.com/photo-1486536243991-9f6a86f1ff5b?auto=format&fit=crop&w=800&q=80',
+  },
+  {
+    id: 'p4',
+    name: 'Seed Treatment Solution',
+    category: 'Seeds',
+    price: 3500,
+    description: 'Protects newly sown seeds from pathogens and insects.',
+    imageUrl: 'https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=800&q=80',
+  },
+  {
+    id: 'p5',
+    name: 'Urea 46% Nitrogen',
+    category: 'Fertilizer',
+    price: 6300,
+    description: 'High-nitrogen fertilizer for fast leafy growth in cereals and vegetables.',
+    imageUrl: 'https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=800&q=80',
+  },
+  {
+    id: 'p6',
+    name: 'Potash Muriate 60',
+    category: 'Fertilizer',
+    price: 6900,
+    description: 'Potassium-rich fertilizer for strong roots and fruit development.',
+    imageUrl: 'https://images.unsplash.com/photo-1524594154901-c8ab383d52aa?auto=format&fit=crop&w=800&q=80',
+  },
+  {
+    id: 'p17',
+    name: 'Diammonium Phosphate (DAP) 18-46-0',
+    category: 'Fertilizer',
+    price: 7300,
+    description: 'Phosphorus-rich fertilizer ideal for early root development and flowering.',
+    imageUrl: 'https://images.unsplash.com/photo-1545462966-69cae58f5882?auto=format&fit=crop&w=800&q=80',
+  },
+  {
+    id: 'p18',
+    name: 'Calcium Nitrate 15.5-0-0',
+    category: 'Fertilizer',
+    price: 7100,
+    description: 'Calcium and nitrogen fertilizer for stronger stems and improved fruit quality.',
+    imageUrl: 'https://images.unsplash.com/photo-1548841452-9cf5bdc9e4c6?auto=format&fit=crop&w=800&q=80',
+  },
+  {
+    id: 'p19',
+    name: 'Sulphate of Potash (SOP)',
+    category: 'Fertilizer',
+price: 8200,
+    description: 'Potassium and sulfur fertilizer for premium crop quality and stress resistance.',
+    imageUrl: 'https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=800&q=80',
+  },
+  {
+    id: 'p7',
+    name: 'Pre-emergent Weed Killer',
+    category: 'Herbicide',
+    price: 10100,
+    description: 'Prevents weed germination in crop beds and field margins.',
+  },
+  {
+    id: 'p8',
+    name: 'Fungicide Spray',
+    category: 'Fungicide',
+    price: 7800,
+    description: 'Protects against leaf spot, blight, and powdery mildew.',
+  },
+  {
+    id: 'p9',
+    name: 'Organic Soil Conditioner',
+    category: 'Soil Health',
+    price: 4100,
+    description: 'Improves soil structure, moisture retention, and microbial activity.',
+  },
+  // ... add more products as needed
+];
+
+export default products;
